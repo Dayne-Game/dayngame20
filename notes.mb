@@ -13,3 +13,9 @@ namespace dayngame20
         }
     }
 }```
+
+To push your work onto git hub 
+1. git add .
+2. git commit -m "comment"
+3. git log (to view your commits)
+4. git push origin master
